@@ -151,7 +151,7 @@
     display: none;
 }
 
-new-job .new-job-label {
+.new-job .new-job-label {
     display: block;
 }
 
